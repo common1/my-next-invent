@@ -15,3 +15,23 @@ $ bun run dev
 
 ```
 
+## 02 Adding a component library - Part 1
+
+```
+$ bunx --bun shadcn --version
+2.1.0
+
+$ bunx --bun shadcn@2.1.0 init
+✔ Preflight checks.
+✔ Verifying framework. Found Next.js.
+✔ Validating Tailwind CSS.
+✔ Validating import alias.
+✔ Which style would you like to use? › New York
+✔ Which color would you like to use as the base color? › Neutral
+? Would you like to use CSS variables for theming? › yes
+
+bunx --bun shadcn@2.1.0 add button
+```
+
+Current: 20:37
+
