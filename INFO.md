@@ -30,8 +30,37 @@ $ bunx --bun shadcn@2.1.0 init
 ✔ Which color would you like to use as the base color? › Neutral
 ? Would you like to use CSS variables for theming? › yes
 
-bunx --bun shadcn@2.1.0 add button
+$ bunx --bun shadcn@2.1.0 add button
 ```
 
-Current: 20:37
+## 03 Customizing components - Part 1
+
+```
+bunx --bun shadcn@2.1.0 add
+avatar
+badge
+button
+calendar
+card
+chart
+checkbox
+dialog
+drawer
+dropdown-menu
+form
+input
+label
+popover
+scroll-area
+select
+separator
+sheet
+skeleton
+sonner
+table
+tabs
+text-area
+```
+
+Current: 24:21
 
