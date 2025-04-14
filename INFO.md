@@ -62,5 +62,7 @@ tabs
 text-area
 ```
 
-Current: 24:21
+## 04 Creating auth screens - Part 1
+
+Current: 1:08:12
 

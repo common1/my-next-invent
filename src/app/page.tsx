@@ -4,9 +4,8 @@ import { Input } from "@/components/ui/input";
 export default function Home() {
   return (
     <div className="flex gap-4">
-      <Input />
-      <Button size="xs">
-        Primary
+      <Button>
+        Primary123
       </Button>
       <Button variant="secondary">
         Secondary
