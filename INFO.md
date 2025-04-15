@@ -64,5 +64,13 @@ text-area
 
 ## 04 Creating auth screens - Part 1
 
-Current: 1:08:12
+...
+
+## 04 Creating auth screens - Part 2
+
+```
+$ bun add react-icons
+```
+
+
 
