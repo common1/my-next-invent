@@ -90,3 +90,9 @@ $ bun add @tanstack/react-query
 [https://tanstack.com/query/latest/docs/framework/react/guides/advanced-ssr#advanced-server-rendering]
 ```
 
+## 06  Creating auth API - Part 2
+
+```
+$ bun add @hono/zod-validator
+```
+
