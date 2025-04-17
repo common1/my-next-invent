@@ -74,5 +74,19 @@ $ bun add react-icons
 
 ## 05 Setting up Hono API - Part 1
 
-Current: 1:38:04
+...
+
+## 05 Setting up Hono API - Part 2
+
+```
+$ bun add hono
+```
+
+## 06  Creating auth API - Part 1
+
+```
+$ bun add @tanstack/react-query
+
+[https://tanstack.com/query/latest/docs/framework/react/guides/advanced-ssr#advanced-server-rendering]
+```
 
